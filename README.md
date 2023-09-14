@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuizTozi
 - 👀 I’m interested in logistic
 - 🌱 I’m currently learning administration
-- 💞️ I’m looking to collaborate on ptojects
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me luizhenriquetozi@gmail.com
 
 <!---
